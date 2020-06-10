@@ -14,7 +14,7 @@
     "  draw = menu_draw;",
     "  menu_choice = 0;",
     "  menu_actions = [",
-    "    {dazda",
+    "    {azd",
     "      name: \"Local play\",",
     "      func: local_init,",
     "    },",
